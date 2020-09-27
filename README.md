@@ -9,3 +9,6 @@ I am a student studying for a Master's degree in Computer Science. I have studie
 - [Personal Site](https://sam-barrett.codes)
 - [My CV](https://sam-barrett.codes/pages/cv)
 - [Projects](https://sam-barrett.codes/pages/projects)
+
+
+[![Sam's github stats](https://github-readme-stats-six-tau.vercel.app/api?username=barrett370)](https://github.com/anuraghazra/github-readme-stats)
